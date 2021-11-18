@@ -1,4 +1,4 @@
-# Gangue da Malha
+# Gangue da Malha 🧶
 
 Um repositório com recursos para aficionadxs do tricô e do crochê
 
