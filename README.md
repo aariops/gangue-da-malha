@@ -1,6 +1,6 @@
 # Gangue da Malha
 
-Um repositório com recursos para aficionadas do tricô e do crochê
+Um repositório com recursos para aficionadxs do tricô e do crochê
 
 ## Lojas portuguesas 🇵🇹
 
