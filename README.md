@@ -10,6 +10,7 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Traça Trapos](https://tracatrapos.pt/), Caldas da Rainha
 - [Tricots Brancal](https://www.tricotsbrancal.com/), por todo o país - vende apenas fios.
 - [Tricot Lãs](https://www.tricot-las.com/), Ericeira e Mafra
+- [The Craft Company](https://thecraftcompany.pt/), Cascais
 - [Love Lãs](https://www.lovelas.pt/), Figueira da Foz
 - [Talica](https://talica.pt), Benedita
 - [O Gato Mimo](https://www.ogatomimo.com.pt/), Montijo
