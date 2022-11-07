@@ -15,6 +15,7 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Talica](https://talica.pt), Benedita
 - [O Gato Mimo](https://www.ogatomimo.com.pt/), Montijo
 - [Bioucas Lãs](https://bioucas.pt/), Alverca do Ribatejo
-- [Hoooked](https://www.hoookedyarn.com/en/), _online_
+- [Hoooked](https://www.hoookedyarn.com/en/), _online_, só fios da marca própria
+- [Algodões Selva](https://algodoesselva.pt/), _online_, só fios da marca própria
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
 - A Meia Elegante, Saldanha Lisboa
