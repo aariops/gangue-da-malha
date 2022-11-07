@@ -13,5 +13,6 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Love Lãs](https://www.lovelas.pt/), Figueira da Foz
 - [Talica](https://talica.pt), Benedita
 - [O Gato Mimo](https://www.ogatomimo.com.pt/), Montijo
+- [Bioucas Lãs](https://bioucas.pt/), Alverca do Ribatejo
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
 - A Meia Elegante, Saldanha Lisboa
