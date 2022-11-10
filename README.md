@@ -8,7 +8,6 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Retrosaria Rosa Pomar](https://retrosaria.rosapomar.com/), Lisboa
 - [Bitacaio](https://loja.bitacaio.pt/), Sertã
 - [Traça Trapos](https://tracatrapos.pt/), Caldas da Rainha
-- [Tricots Brancal](https://www.tricotsbrancal.com/), por todo o país - vende apenas fios.
 - [Tricot Lãs](https://www.tricot-las.com/), Ericeira e Mafra
 - [The Craft Company](https://thecraftcompany.pt/), Cascais
 - [Mercadorumi](https://mercadurumi.pt/), Bobadela
@@ -19,11 +18,17 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [DotQuilts](https://dotquilts.com/), Lisboa
 - [Roll Up The Sheep](https://rollupthesheep.lojasonlinectt.pt/), Lisboa
 - [Arco-íris a Metro](https://www.arcoirisametro.com/), Lisboa
-- [Hoooked](https://www.hoookedyarn.com/en/), _online_, só fios da marca própria
-- [Algodões Selva](https://algodoesselva.pt/), _online_, só fios da marca própria
+- [Gotas de Sol](https://www.gotasdesol.pt/), Figueira da Foz
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
 
-### Sem site
+### Marcas de fios com lojas próprias
+
+- [Algodões Selva](https://algodoesselva.pt/), loja _online_
+- [Hoooked](https://www.hoookedyarn.com/en/), loja _online_
+- [Welcome Yarn](https://welcomeyarn.pt/pt), loja _online_; lojas físicas em Minde e Lisboa
+- Tricots Brancal, lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
+
+### Sem loja online
 - A Meia Elegante, Saldanha Lisboa
 - Bilita, Lourinhã
 - Novelão, Queluz
