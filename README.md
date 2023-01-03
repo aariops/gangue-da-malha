@@ -19,6 +19,7 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Roll Up The Sheep](https://rollupthesheep.lojasonlinectt.pt/), Lisboa
 - [Arco-íris a Metro](https://www.arcoirisametro.com/), Lisboa
 - [Gotas de Sol](https://www.gotasdesol.pt/), Figueira da Foz
+- [Linden Tea](https://lindentea.eu/), Alcanena
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
 
 ### Marcas de fios com lojas próprias
