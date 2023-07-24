@@ -30,6 +30,8 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Saberes da Avó](https://www.saberes-da-avo.com/), Almada
 - [Americana](https://americana.pt/), Leiria
 - [Casa das Lãs](https://casadaslas-online.lojasonlinectt.pt/), Vila Nova de Gaia
+- [Auri Retrosaria](https://auri-retrosaria.pt/), Lisboa
+- [Mania das Lãs](https://www.instagram.com/maniadaslas/), Madeira
 
 ## Lojas portuguesas 🇵🇹 sem loja física
 - [Bisaria](https://bybisaria.com/)
