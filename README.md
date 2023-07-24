@@ -23,20 +23,25 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
 - [Novelos e Novelinhos](https://www.novelos-e-novelinhos.pt/), Lagoa
 - [ByRaquel](https://www.byraquel.eu/), Oeiras (São Domingos de Rana)
-- [Bisaria](https://bybisaria.com/), sem loja física
 - [Meraki](https://www.lojameraki.pt/novo/), Coimbra
 - [Retrosaria 3 Globos](https://retrosaria3globos.com/), Castelo Branco
 - [Mom's Knitting](https://momsknitting.pt/), Lisboa
 - [Lopo Xavier](https://www.lopoxavier.pt/), Porto
-- [Dar Ao Dedo](https://daraodedo.com/), sem loja física
 - [Saberes da Avó](https://www.saberes-da-avo.com/), Almada
-- [Carlota Grandma](https://carlotagrandma.com/), sem loja física
-- [Companhia das Agulhas](http://www.companhiadasagulhas.pt/), Lisboa
 - [Americana](https://americana.pt/), Leiria
 - [Casa das Lãs](https://casadaslas-online.lojasonlinectt.pt/), Vila Nova de Gaia
 
- ## Lojas espanholas ES que enviam para PT
+## Lojas portuguesas 🇵🇹 sem loja física
+- [Bisaria](https://bybisaria.com/)
+- [Companhia das Agulhas](http://www.companhiadasagulhas.pt/)
+- [Dar Ao Dedo](https://daraodedo.com/)
+- [Carlota Grandma](https://carlotagrandma.com/)
+- [Serafina](https://retrosariaserafina.com/)
+  
+## Lojas espanholas ES que enviam para PT
 - [FunToCome](https://www.funtocome.pt/), Novelda (Alicante)
+- [Miss Kitts](https://www.misskits.com/en/)
+- [Las Tijeras Mágicas](https://www.lastijerasmagicas.com/)
 
 ### Marcas de fios com lojas próprias
 
@@ -46,10 +51,14 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Tricots Brancal](https://www.tricotsbrancal.pt/), lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
 - [J-Gomes](https://j-gomes.com/), loja _online_; loja física Covilhã
 
+### Dyers 
+
+- [Dyed by Alfinete](https://www.dyedbyalfinete.pt/), loja _online_
+- [Pontinhos ao Vento](https://www.pontinhosaovento.com/), loja _online_
+  
 ### Sem loja online
 - A Meia Elegante, Saldanha Lisboa
 - Bilita, Lourinhã
 - Novelão, Queluz
 - Retrosaria Coolchetes, Caldas da Rainha
-
 
