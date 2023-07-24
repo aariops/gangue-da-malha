@@ -21,6 +21,22 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Gotas de Sol](https://www.gotasdesol.pt/), Figueira da Foz
 - [Linden Tea](https://lindentea.eu/), Alcanena
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
+- [Novelos e Novelinhos](https://www.novelos-e-novelinhos.pt/), Lagoa
+- [ByRaquel](https://www.byraquel.eu/), Oeiras (São Domingos de Rana)
+- [Bisaria](https://bybisaria.com/), sem loja física
+- [Meraki](https://www.lojameraki.pt/novo/), Coimbra
+- [Retrosaria 3 Globos](https://retrosaria3globos.com/), Castelo Branco
+- [Mom's Knitting](https://momsknitting.pt/), Lisboa
+- [Lopo Xavier](https://www.lopoxavier.pt/), Porto
+- [Dar Ao Dedo](https://daraodedo.com/), sem loja física
+- [Saberes da Avó](https://www.saberes-da-avo.com/), Almada
+- [Carlota Grandma](https://carlotagrandma.com/), sem loja física
+- [Companhia das Agulhas](http://www.companhiadasagulhas.pt/), Lisboa
+- [Americana](https://americana.pt/), Leiria
+- [Casa das Lãs](https://casadaslas-online.lojasonlinectt.pt/), Vila Nova de Gaia
+
+ ## Lojas espanholas ES que enviam para PT
+- [FunToCome](https://www.funtocome.pt/), Novelda (Alicante)
 
 ### Marcas de fios com lojas próprias
 
@@ -28,6 +44,7 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Hoooked](https://www.hoookedyarn.com/en/), loja _online_
 - [Welcome Yarn](https://welcomeyarn.pt/pt), loja _online_; lojas físicas em Minde e Lisboa
 - [Tricots Brancal](https://www.tricotsbrancal.pt/), lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
+- [J-Gomes](https://j-gomes.com/), loja _online_; loja física Covilhã
 
 ### Sem loja online
 - A Meia Elegante, Saldanha Lisboa
