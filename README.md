@@ -27,7 +27,7 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Algodões Selva](https://algodoesselva.pt/), loja _online_
 - [Hoooked](https://www.hoookedyarn.com/en/), loja _online_
 - [Welcome Yarn](https://welcomeyarn.pt/pt), loja _online_; lojas físicas em Minde e Lisboa
-- Tricots Brancal, lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
+- [Tricots Brancal](https://www.tricotsbrancal.pt/), lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
 
 ### Sem loja online
 - A Meia Elegante, Saldanha Lisboa
