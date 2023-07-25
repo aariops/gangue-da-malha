@@ -21,6 +21,29 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Gotas de Sol](https://www.gotasdesol.pt/), Figueira da Foz
 - [Linden Tea](https://lindentea.eu/), Alcanena
 - [El Corte Inglés](https://www.elcorteingles.pt/), Porto e Lisboa - fios Rosa Pomar e outras marcas, agulhas e acessórios
+- [Novelos e Novelinhos](https://www.novelos-e-novelinhos.pt/), Lagoa
+- [ByRaquel](https://www.byraquel.eu/), Oeiras (São Domingos de Rana)
+- [Meraki](https://www.lojameraki.pt/novo/), Coimbra
+- [Retrosaria 3 Globos](https://retrosaria3globos.com/), Castelo Branco
+- [Mom's Knitting](https://momsknitting.pt/), Lisboa
+- [Lopo Xavier](https://www.lopoxavier.pt/), Porto
+- [Saberes da Avó](https://www.saberes-da-avo.com/), Almada
+- [Americana](https://americana.pt/), Leiria
+- [Casa das Lãs](https://casadaslas-online.lojasonlinectt.pt/), Vila Nova de Gaia
+- [Auri Retrosaria](https://auri-retrosaria.pt/), Lisboa
+- [Mania das Lãs](https://www.instagram.com/maniadaslas/), Madeira
+
+## Lojas portuguesas 🇵🇹 sem loja física
+- [Bisaria](https://bybisaria.com/)
+- [Companhia das Agulhas](http://www.companhiadasagulhas.pt/)
+- [Dar Ao Dedo](https://daraodedo.com/)
+- [Carlota Grandma](https://carlotagrandma.com/)
+- [Serafina](https://retrosariaserafina.com/)
+  
+## Lojas espanholas ES que enviam para PT
+- [FunToCome](https://www.funtocome.pt/), Novelda (Alicante)
+- [Miss Kitts](https://www.misskits.com/en/)
+- [Las Tijeras Mágicas](https://www.lastijerasmagicas.com/)
 
 ### Marcas de fios com lojas próprias
 
@@ -28,11 +51,16 @@ Um repositório com recursos para aficionades do tricô e do crochê
 - [Hoooked](https://www.hoookedyarn.com/en/), loja _online_
 - [Welcome Yarn](https://welcomeyarn.pt/pt), loja _online_; lojas físicas em Minde e Lisboa
 - [Tricots Brancal](https://www.tricotsbrancal.pt/), lojas físicas por todo o país: Lisboa, Almada, Setúbal, Barreiro, Cascais, Aveiro, Braga, Barcelos, Guimarães, Vila Nova de Famalicão, Coimbra, Leiria, Porto, Matosinhos, Santo Tirso, Vila Real, Viseu, Gaia
+- [J-Gomes](https://j-gomes.com/), loja _online_; loja física Covilhã
 
+### Dyers 
+
+- [Dyed by Alfinete](https://www.dyedbyalfinete.pt/), loja _online_
+- [Pontinhos ao Vento](https://www.pontinhosaovento.com/), loja _online_
+  
 ### Sem loja online
 - A Meia Elegante, Saldanha Lisboa
 - Bilita, Lourinhã
 - Novelão, Queluz
 - Retrosaria Coolchetes, Caldas da Rainha
-
 
